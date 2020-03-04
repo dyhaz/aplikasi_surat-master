@@ -1,0 +1,32 @@
+Toggle navigation
+  Log out
+User Image
+kioskaryawan
+
+NAVIGASI UTAMA
+Dashboard
+ Surat
+ Surat Masuk
+ Surat Keluar
+ Notulensi Rapat
+ Setting
+Layout Options
+Fixed layout
+Activate the fixed layout. You can't use fixed and boxed layouts together
+
+Boxed Layout
+Activate the boxed layout
+
+Toggle Sidebar
+Toggle the left sidebar's state (open or collapse)
+
+Sidebar Expand on Hover
+Let the sidebar mini expand on hover
+
+Toggle Right Sidebar Slide
+Toggle between slide over content and push content effects
+
+Toggle Right Sidebar Skin
+Toggle between dark and light skins for the right sidebar
+
+Skins
